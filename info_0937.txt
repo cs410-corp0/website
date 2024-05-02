@@ -1,0 +1,22 @@
+Josh Kotler
+
+Last 4 digits: 0937
+Languages: C, Python, Java, Go, HTML/CSS/JavaScript
+
+
+Work Experience
+
+Team Heatmap:
+Role: programmer.
+- Completed a preliminary task consisting of setting up the development environment
+and writing a short test program to verify that the necessary libraries were installed
+properly. I installed the GNU Scientific Library (GSL) locally, and used the library to
+write a program estimating the value of Pi using random numbers.
+- Implemented a Python frontend for visualization and a C++ backend for pseudo-random
+number generation.
+- Source code: https://github.com/UMB-Heatmap/pi-est 
+
+Celtic Knot Team 9:
+- Wrote the HTML code for part I of the celtic knot, which my team then assembled into
+the segment we were assigned.
+
